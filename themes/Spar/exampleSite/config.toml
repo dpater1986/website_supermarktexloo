@@ -24,7 +24,7 @@ Footer = ""
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Posts"
+    name = "Service"
     pre = "pen-tool"
     url = "/service/"
     weight = 2
