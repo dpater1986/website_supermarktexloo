@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 
-defaultContentLanguage = "nl"
+ContentLanguage = "nl"
 
 # The perfect theme for Spar websites!
 Theme = "Spar"
@@ -33,3 +33,7 @@ Footer = ""
     pre = "tag"
     url = "/tags/"
     weight = 3
+  [[menu.homenav]]
+    name = "Webwinkel"
+    url = "/"
+    weight = 1
